@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://cequnaho.github.io/sitemap/sitemap_index.cequnaho
+Sitemap: https://cequnaho.github.io/rvL/sitemap_index.cequnaho
+Sitemap: https://cequnaho.github.io/mrE/sitemap_index.cequnaho
+Sitemap: https://cequnaho.github.io/pfM/sitemap_index.cequnaho
+Sitemap: https://cequnaho.github.io/XNy/sitemap_index.cequnaho
+Sitemap: https://cequnaho.github.io/kRP/sitemap_index.cequnaho
+Sitemap: https://cequnaho.github.io/frl/sitemap_index.cequnaho
+Sitemap: https://cequnaho.github.io/TxY/sitemap_index.cequnaho
+Sitemap: https://cequnaho.github.io/XJi/sitemap_index.cequnaho
+Sitemap: https://cequnaho.github.io/QmW/sitemap_index.cequnaho
+Sitemap: https://cequnaho.github.io/iWp/sitemap_index.cequnaho
+Sitemap: https://cequnaho.github.io/mYh/sitemap_index.cequnaho
+Sitemap: https://cequnaho.github.io/AsE/sitemap_index.cequnaho
+Sitemap: https://cequnaho.github.io/aDE/sitemap_index.cequnaho
+Sitemap: https://cequnaho.github.io/YsI/sitemap_index.cequnaho
+Sitemap: https://cequnaho.github.io/kFO/sitemap_index.cequnaho
+Sitemap: https://cequnaho.github.io/orQ/sitemap_index.cequnaho
+Sitemap: https://cequnaho.github.io/Imd/sitemap_index.cequnaho
+Sitemap: https://cequnaho.github.io/dlB/sitemap_index.cequnaho
+Sitemap: https://cequnaho.github.io/Hka/sitemap_index.cequnaho
+Sitemap: https://cequnaho.github.io/DaX/sitemap_index.cequnaho
